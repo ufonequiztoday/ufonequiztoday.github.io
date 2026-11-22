@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ufonequiztoday.github.io/sitemap.xml
